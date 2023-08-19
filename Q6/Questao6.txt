@@ -1,0 +1,1 @@
+6 - Faça um procedimento que recebe 3 valores inteiros por parâmetro e os exiba em ordem crescente. Faça um programa que leia N conjuntos de 3 valores e acione o procedimento para cada conjunto (N deve ser lido do teclado).

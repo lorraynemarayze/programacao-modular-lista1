@@ -1,0 +1,5 @@
+8 -  Considere a Matriz A abaixo:
+a) Implemente um algoritmo que exiba a matriz transposta AT
+b) Implemente um algoritmo que exiba a soma dos quadrados da diagonal    secundária
+c) Implemente um algoritmo que faça a multiplicação desta matriz por uma constante C
+d) Implemente um algoritmo que inverta a 3ª linha com a 3ª coluna

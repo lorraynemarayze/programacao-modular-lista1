@@ -1,0 +1,2 @@
+
+7- Faça uma função que some os valores de dois vetores de tamanho N, ambos recebidos por parâmetro, e retorne um outro vetor, também de tamanho N, com o resultado da soma dos dois vetores, só que ao contrário.
